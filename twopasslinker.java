@@ -1,6 +1,14 @@
 
 
 import java.util.*;
+/**
+ * Two Pass Linker Project 1
+ * This code implements my own two pass linker. The target machine is word addressable and has a memory of 200 words. 
+ * The first pass stores and parses user input. 
+ * The second pass updates addresses depending on the the rightmost digit. 
+ * @author sonamtailor
+ *
+ */
 
 public class twopasslinker {
 
